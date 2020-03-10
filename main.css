@@ -1,0 +1,32 @@
+.content {
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+}
+
+.header {
+    max-width: 400px;
+    margin: auto;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 56px;
+    margin-bottom: 2pt;
+}
+
+q {
+    font-size: larger;
+    font-style: italic;
+}
+
+img {
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px grey;
+    max-width:100%;
+    height:auto;
+    margin-bottom: 20px;
+}
